@@ -3,5 +3,6 @@ module.exports = {
   response: require('./lib/response'),
   decompress: require('./lib/decompress'),
   saveXmlsToOfficeFile: require('./lib/saveXmlsToOfficeFile'),
-  serializeOfficeXmls: require('./lib/serializeOfficeXmls')
+  serializeOfficeXmls: require('./lib/serializeOfficeXmls'),
+  officeDocuments: require('./lib/officeDocuments')
 }
