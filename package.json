@@ -1,6 +1,6 @@
 {
   "name": "jsreport-office",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Some helpers for office based jsreport recipes",
   "main": "index.js",
   "directories": {
